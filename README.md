@@ -3,10 +3,10 @@
 ```yaml
 ## A little bit about me.
 ## Mario Stocco
-## Mon Nov  7 07:52:47 PST 2022
+## Thu Jul 27 09:32:00 PST 2023
 --- 
-company: "Distributel Communications"
-current_job: "Solutions Architect / VoIP Developer"
+company: "DISTRIBUTEL, a division of Bell Canada"
+current_job: "Solutions Architect - VoIP Developer"
 technical_background: 
   ["Solutions Architect", "VoIP Developer"]
 
